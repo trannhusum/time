@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\time\bin\Debug\time.exe.config
+D:\visual studio\BaiTapCodeGym\time\bin\Debug\time.exe
+D:\visual studio\BaiTapCodeGym\time\bin\Debug\time.pdb
+D:\visual studio\BaiTapCodeGym\time\obj\Debug\time.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\time\obj\Debug\time.exe
+D:\visual studio\BaiTapCodeGym\time\obj\Debug\time.pdb
